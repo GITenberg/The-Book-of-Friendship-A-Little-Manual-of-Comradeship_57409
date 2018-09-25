@@ -1,5 +1,8 @@
 _repo: The-Book-of-Friendship-A-Little-Manual-of-Comradeship_57409
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57409-h/images/cover.jpg
 creator:
   author:
     agent_name: Kauffman, Reginald Wright
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39468'
     url: http://www.gutenberg.org/2009/agents/39468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57409#The-Book-of-Friendship-A-Little-Manual-of-Comradeship
 gutenberg_issued: '2018-06-27'
 gutenberg_type: Text
 identifiers:
